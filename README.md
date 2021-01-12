@@ -1,14 +1,12 @@
 <h1 align="center">
     YouTube Clone
 </h1>
-<br>
 <h3 align="center">
     Screenshots
 </h3>
 <p align="center">
   <img src="screenshots/screenshot.png" width="700"> &nbsp;&nbsp;&nbsp;
 </p>
-
 
 # Getting Started with Create React App
 
